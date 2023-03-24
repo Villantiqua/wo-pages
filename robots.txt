@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://villantiqua.github.io/wo-pages/sitemap.xml

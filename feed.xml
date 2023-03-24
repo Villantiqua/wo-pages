@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>testRPi</title>
+    <link href="https://villantiqua.github.io/wo-pages/feed.xml" rel="self" />
+    <link href="https://villantiqua.github.io/wo-pages" />
+    <updated>2023-03-22T10:52:42+01:00</updated>
+    <author>
+        <name>Wouter</name>
+    </author>
+    <id>https://villantiqua.github.io/wo-pages</id>
+
+    <entry>
+        <title>Software</title>
+        <author>
+            <name>Wouter</name>
+        </author>
+        <link href="https://villantiqua.github.io/wo-pages/software.html"/>
+        <id>https://villantiqua.github.io/wo-pages/software.html</id>
+            <category term="Software"/>
+
+        <updated>2023-03-22T10:52:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The best thing I did was choosing Homer for my home page.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The best thing I did was choosing Homer for my home page.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hardware</title>
+        <author>
+            <name>Wouter</name>
+        </author>
+        <link href="https://villantiqua.github.io/wo-pages/hardware.html"/>
+        <id>https://villantiqua.github.io/wo-pages/hardware.html</id>
+            <category term="Hardware"/>
+
+        <updated>2023-03-22T10:52:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Obviously, some Raspberry Pi's had to be purchased
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Obviously, some Raspberry Pi's had to be purchased</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Wouter</name>
+        </author>
+        <link href="https://villantiqua.github.io/wo-pages/home.html"/>
+        <id>https://villantiqua.github.io/wo-pages/home.html</id>
+            <category term="Home"/>
+
+        <updated>2023-03-22T10:52:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    It all started with my ASUS Tinkerboard
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It all started with my ASUS Tinkerboard</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

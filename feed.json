@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "testRPi",
+    "description": "",
+    "home_page_url": "https://villantiqua.github.io/wo-pages",
+    "feed_url": "https://villantiqua.github.io/wo-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Wouter"
+    },
+    "items": [
+        {
+            "id": "https://villantiqua.github.io/wo-pages/software.html",
+            "url": "https://villantiqua.github.io/wo-pages/software.html",
+            "title": "Software",
+            "summary": "The best thing I did was choosing Homer for my home page.",
+            "content_html": "<p>The best thing I did was choosing Homer for my home page.</p>",
+            "author": {
+                "name": "Wouter"
+            },
+            "tags": [
+                   "Software"
+            ],
+            "date_published": "2023-03-22T10:42:24+01:00",
+            "date_modified": "2023-03-22T10:52:26+01:00"
+        },
+        {
+            "id": "https://villantiqua.github.io/wo-pages/hardware.html",
+            "url": "https://villantiqua.github.io/wo-pages/hardware.html",
+            "title": "Hardware",
+            "summary": "Obviously, some Raspberry Pi's had to be purchased",
+            "content_html": "<p>Obviously, some Raspberry Pi's had to be purchased</p>",
+            "author": {
+                "name": "Wouter"
+            },
+            "tags": [
+                   "Hardware"
+            ],
+            "date_published": "2023-03-22T10:41:26+01:00",
+            "date_modified": "2023-03-22T10:52:34+01:00"
+        },
+        {
+            "id": "https://villantiqua.github.io/wo-pages/home.html",
+            "url": "https://villantiqua.github.io/wo-pages/home.html",
+            "title": "Home",
+            "summary": "It all started with my ASUS Tinkerboard",
+            "content_html": "<p>It all started with my ASUS Tinkerboard</p>",
+            "author": {
+                "name": "Wouter"
+            },
+            "tags": [
+                   "Home"
+            ],
+            "date_published": "2023-03-22T10:40:54+01:00",
+            "date_modified": "2023-03-22T10:52:42+01:00"
+        }
+    ]
+}
